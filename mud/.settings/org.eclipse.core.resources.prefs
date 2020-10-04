@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/xwwx/sewage/controller/UserController.java=UTF-8
+encoding//src/main/java/com/xwwx/sewage/redis/RedisCacheManager.java=UTF-8
+encoding//src/main/java/com/xwwx/sewage/token/TokenInterceptor.java=UTF-8
+encoding//src/main/resources/document/sql/\u5168\u90E8.sql=UTF-8
+encoding//src/main/resources/document/sql/\u8BF4\u660E=UTF-8
+encoding//src/main/resources/log4j.properties=UTF-8
